@@ -1,3 +1,4 @@
+Boas vindas ao meu perfil
 - 👋 Hi, I’m @ingridrafaela
 - 👀 I’m interested in
 - 🌱 I’m currently learning ...
